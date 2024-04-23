@@ -21,7 +21,6 @@
 title: Paul Richardson
 description: >- # this means to ignore newlines until "baseurl:"
   iOS developer
-baseurl: "/docs"
 url: "https://plrichardson.github.io"
 github_username:  plrichardson
 linkedin_username: plrichardson-dev
