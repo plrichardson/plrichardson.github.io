@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm an iOS developer. I'm also a musician, photographer, traveller ...
+
+I have a wide range of experience in IT and software development. I've worked with  HTML, CSS, PHP, FileMaker Pro, MySQL, AppleScript, XML, XSLT, Objective-C and Swift. I've been involved in macOS System Administration, Web site development, iOS development, and more.
+
+I lived for many years in Germany. In 2020 I returned to Australia. For the last 12 months I've been travelling. I'm currently in Medellin, Colombia.
