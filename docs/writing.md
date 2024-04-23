@@ -4,4 +4,4 @@ title: Writing
 permalink: /blog/
 ---
 
-This is my writing.
+Thoughts. Questions. Ideas. Notes.
